@@ -1,0 +1,437 @@
+total 7398
+-rwxr-xr-x 1 root root 1037528 May 16 12:49 bash
+-rwxr-xr-x 1 root root   52080 Mar  2 18:07 cat
+-rwxr-xr-x 1 root root   60272 Mar  2 18:07 chgrp
+-rwxr-xr-x 1 root root   56112 Mar  2 18:07 chmod
+-rwxr-xr-x 1 root root   64368 Mar  2 18:07 chown
+-rwxr-xr-x 1 root root  151024 Mar  2 18:07 cp
+-rwxr-xr-x 1 root root  154072 Feb 17  2016 dash
+-rwxr-xr-x 1 root root   68464 Mar  2 18:07 date
+-rwxr-xr-x 1 root root   72632 Mar  2 18:07 dd
+-rwxr-xr-x 1 root root   97912 Mar  2 18:07 df
+-rwxr-xr-x 1 root root  126584 Mar  2 18:07 dir
+-rwxr-xr-x 1 root root   60680 Jun 14 21:51 dmesg
+lrwxrwxrwx 1 root root       8 Nov 24  2015 dnsdomainname -> hostname
+lrwxrwxrwx 1 root root       8 Nov 24  2015 domainname -> hostname
+-rwxr-xr-x 1 root root   31376 Mar  2 18:07 echo
+-rwxr-xr-x 1 root root      28 Apr 29  2016 egrep
+-rwxr-xr-x 1 root root   27280 Mar  2 18:07 false
+-rwxr-xr-x 1 root root      28 Apr 29  2016 fgrep
+-rwxr-xr-x 1 root root   49576 Jun 14 21:51 findmnt
+-rwxr-xr-x 1 root root  211224 Apr 29  2016 grep
+-rwxr-xr-x 2 root root    2301 Oct 27  2014 gunzip
+-rwxr-xr-x 1 root root    5927 Oct 27  2014 gzexe
+-rwxr-xr-x 1 root root   98240 Oct 27  2014 gzip
+-rwxr-xr-x 1 root root   14800 Nov 24  2015 hostname
+-rwxr-xr-x 1 root root  498936 Jul 18 23:56 journalctl
+-rwxr-xr-x 1 root root   23152 Nov 21  2016 kill
+-rwxr-xr-x 1 root root   56152 Mar  2 18:07 ln
+-rwxr-xr-x 2 root root   48128 May 16 23:37 login
+-rwxr-xr-x 1 root root  453848 Jul 18 23:56 loginctl
+-rwxr-xr-x 1 root root  126584 Mar  2 18:07 ls
+-rwxr-xr-x 1 root root   77280 Jun 14 21:51 lsblk
+-rwxr-xr-x 1 root root   76848 Mar  2 18:07 mkdir
+-rwxr-xr-x 1 root root   64496 Mar  2 18:07 mknod
+-rwxr-xr-x 1 root root   39728 Mar  2 18:07 mktemp
+-rwxr-xr-x 1 root root   39768 Jun 14 21:51 more
+-rwsr-xr-x 1 root root   40152 Jun 14 21:51 mount
+-rwxr-xr-x 1 root root   14768 Jun 14 21:51 mountpoint
+-rwxr-xr-x 1 root root  130488 Mar  2 18:07 mv
+lrwxrwxrwx 1 root root      20 Aug 25 15:06 nc -> /etc/alternatives/nc
+-rwxr-xr-x 1 root root   27152 Oct 25  2014 nc.traditional
+lrwxrwxrwx 1 root root      24 Aug 25 15:06 netcat -> /etc/alternatives/netcat
+-rwxr-xr-x 1 root root  678496 Jul 18 23:56 networkctl
+lrwxrwxrwx 1 root root       8 Nov 24  2015 nisdomainname -> hostname
+lrwxrwxrwx 1 root root      14 Feb  5  2016 pidof -> /sbin/killall5
+-rwxr-xr-x 1 root root   97408 Nov 21  2016 ps
+-rwxr-xr-x 1 root root   31472 Mar  2 18:07 pwd
+lrwxrwxrwx 1 root root       4 May 16 12:49 rbash -> bash
+-rwxr-xr-x 1 root root   39632 Mar  2 18:07 readlink
+-rwxr-xr-x 1 root root   60272 Mar  2 18:07 rm
+-rwxr-xr-x 1 root root   39632 Mar  2 18:07 rmdir
+-rwxr-xr-x 1 root root   19320 Jan 26  2016 run-parts
+-rwxr-xr-x 1 root root   73424 Feb 12  2016 sed
+lrwxrwxrwx 1 root root       4 Feb 17  2016 sh -> dash
+lrwxrwxrwx 1 root root       4 Feb 17  2016 sh.distrib -> dash
+-rwxr-xr-x 1 root root   31408 Mar  2 18:07 sleep
+-rwxr-xr-x 1 root root   72496 Mar  2 18:07 stty
+-rwsr-xr-x 1 root root   40128 May 16 23:37 su
+-rwxr-xr-x 1 root root   31408 Mar  2 18:07 sync
+-rwxr-xr-x 1 root root  659848 Jul 18 23:56 systemctl
+lrwxrwxrwx 1 root root      20 Jul 18 23:56 systemd -> /lib/systemd/systemd
+-rwxr-xr-x 1 root root   51656 Jul 18 23:56 systemd-ask-password
+-rwxr-xr-x 1 root root   39344 Jul 18 23:56 systemd-escape
+-rwxr-xr-x 1 root root  281840 Jul 18 23:56 systemd-inhibit
+-rwxr-xr-x 1 root root   47544 Jul 18 23:56 systemd-machine-id-setup
+-rwxr-xr-x 1 root root   35248 Jul 18 23:56 systemd-notify
+-rwxr-xr-x 1 root root  133704 Jul 18 23:56 systemd-tmpfiles
+-rwxr-xr-x 1 root root   68032 Jul 18 23:56 systemd-tty-ask-password-agent
+-rwxr-xr-x 1 root root   23144 Jun 14 21:51 tailf
+-rwxr-xr-x 1 root root  383632 Nov 17  2016 tar
+-rwxr-xr-x 1 root root   10416 Jan 26  2016 tempfile
+-rwxr-xr-x 1 root root   64432 Mar  2 18:07 touch
+-rwxr-xr-x 1 root root   27280 Mar  2 18:07 true
+-rwsr-xr-x 1 root root   27608 Jun 14 21:51 umount
+-rwxr-xr-x 1 root root   31440 Mar  2 18:07 uname
+-rwxr-xr-x 2 root root    2301 Oct 27  2014 uncompress
+-rwxr-xr-x 1 root root  126584 Mar  2 18:07 vdir
+-rwxr-xr-x 1 root root   31376 Jun 14 21:51 wdctl
+-rwxr-xr-x 1 root root     946 Jan 26  2016 which
+lrwxrwxrwx 1 root root       8 Nov 24  2015 ypdomainname -> hostname
+-rwxr-xr-x 1 root root    1937 Oct 27  2014 zcat
+-rwxr-xr-x 1 root root    1777 Oct 27  2014 zcmp
+-rwxr-xr-x 1 root root    5764 Oct 27  2014 zdiff
+-rwxr-xr-x 1 root root     140 Oct 27  2014 zegrep
+-rwxr-xr-x 1 root root     140 Oct 27  2014 zfgrep
+-rwxr-xr-x 1 root root    2131 Oct 27  2014 zforce
+-rwxr-xr-x 1 root root    5938 Oct 27  2014 zgrep
+-rwxr-xr-x 1 root root    2037 Oct 27  2014 zless
+-rwxr-xr-x 1 root root    1910 Oct 27  2014 zmore
+-rwxr-xr-x 1 root root    5047 Oct 27  2014 znew
++makePaths: created directory /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat mode 770 user ubuntu group barbican
++makePaths: created directory /etc/dirsrv/slapd-pki-tomcat mode 770 user ubuntu group barbican
++makePaths: created directory /etc/dirsrv/slapd-pki-tomcat/schema mode 770 user ubuntu group barbican
++makePaths: created directory /var/log/dirsrv/slapd-pki-tomcat mode 770 user ubuntu group barbican
++makePaths: created directory /var/lock mode 770 user ubuntu group barbican
++makePaths: created directory /var/lock/dirsrv mode 770 user ubuntu group barbican
++makePaths: created directory /var/lock/dirsrv/slapd-pki-tomcat mode 770 user ubuntu group barbican
++makePaths: created directory /var/run/dirsrv mode 770 user ubuntu group barbican
++makePaths: created directory /var/lib/dirsrv/slapd-pki-tomcat mode 770 user ubuntu group barbican
++makePaths: created directory /var/lib/dirsrv/slapd-pki-tomcat/db mode 770 user ubuntu group barbican
++makePaths: created directory /var/lib/dirsrv/slapd-pki-tomcat/ldif mode 770 user ubuntu group barbican
++makePaths: created directory /var/lib/dirsrv/slapd-pki-tomcat/bak mode 770 user ubuntu group barbican
++changeOwnerMode: changed mode of /var/run/dirsrv to 770
++changeOwnerMode: changed group ownership of /var/run/dirsrv to group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv to 775
++changeOwnerMode: changed group ownership of /usr/lib/x86_64-linux-gnu/dirsrv to group 999
++changeOwnerMode: changed mode of /etc/dirsrv to 775
++changeOwnerMode: changed group ownership of /etc/dirsrv to group 999
++Processing /usr/share/dirsrv/data/template-dse.ldif ...
++Entry cn=config is added
++Entry cn=features,cn=config is added
++Entry oid=1.3.6.1.4.1.42.2.27.9.5.8,cn=features,cn=config is added
++Entry oid=1.3.6.1.4.1.4203.1.9.1.1,cn=features,cn=config is added
++Entry cn=plugins,cn=config is added
++Entry cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SSHA,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SSHA,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SSHA256,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SSHA384,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SSHA512,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SHA,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SHA256,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SHA384,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SHA512,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=CRYPT,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=MD5,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=SMD5,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=CLEAR,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=NS-MTA-MD5,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=AES,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=DES,cn=Password Storage Schemes,cn=plugins,cn=config is added
++Entry cn=Syntax Validation Task,cn=plugins,cn=config is added
++Entry cn=Case Ignore String Syntax,cn=plugins,cn=config is added
++Entry cn=Case Exact String Syntax,cn=plugins,cn=config is added
++Entry cn=Schema Reload,cn=plugins,cn=config is added
++Entry cn=Space Insensitive String Syntax,cn=plugins,cn=config is added
++Entry cn=Binary Syntax,cn=plugins,cn=config is added
++Entry cn=Bit String Syntax,cn=plugins,cn=config is added
++Entry cn=Octet String Syntax,cn=plugins,cn=config is added
++Entry cn=Boolean Syntax,cn=plugins,cn=config is added
++Entry cn=Generalized Time Syntax,cn=plugins,cn=config is added
++Entry cn=Telephone Syntax,cn=plugins,cn=config is added
++Entry cn=Telex Number Syntax,cn=plugins,cn=config is added
++Entry cn=Teletex Terminal Identifier Syntax,cn=plugins,cn=config is added
++Entry cn=Enhanced Guide Syntax,cn=plugins,cn=config is added
++Entry cn=Facsimile Telephone Number Syntax,cn=plugins,cn=config is added
++Entry cn=Fax Syntax,cn=plugins,cn=config is added
++Entry cn=Guide Syntax,cn=plugins,cn=config is added
++Entry cn=Delivery Method Syntax,cn=plugins,cn=config is added
++Entry cn=Integer Syntax,cn=plugins,cn=config is added
++Entry cn=Distinguished Name Syntax,cn=plugins,cn=config is added
++Entry cn=Name And Optional UID Syntax,cn=plugins,cn=config is added
++Entry cn=OID Syntax,cn=plugins,cn=config is added
++Entry cn=URI Syntax,cn=plugins,cn=config is added
++Entry cn=JPEG Syntax,cn=plugins,cn=config is added
++Entry cn=Country String Syntax,cn=plugins,cn=config is added
++Entry cn=Postal Address Syntax,cn=plugins,cn=config is added
++Entry cn=Numeric String Syntax,cn=plugins,cn=config is added
++Entry cn=Printable String Syntax,cn=plugins,cn=config is added
++Entry cn=State Change Plugin,cn=plugins,cn=config is added
++Entry cn=Roles Plugin,cn=plugins,cn=config is added
++Entry cn=ACL Plugin,cn=plugins,cn=config is added
++Entry cn=ACL preoperation,cn=plugins,cn=config is added
++Entry cn=MemberOf Plugin,cn=plugins,cn=config is added
++Entry cn=Retro Changelog Plugin,cn=plugins,cn=config is added
++Entry cn=Class of Service,cn=plugins,cn=config is added
++Entry cn=Views,cn=plugins,cn=config is added
++Entry cn=referential integrity postoperation,cn=plugins,cn=config is added
++Entry cn=attribute uniqueness,cn=plugins,cn=config is added
++Entry cn=7-bit check,cn=plugins,cn=config is added
++Entry cn=Account Usability Plugin,cn=plugins,cn=config is added
++Entry cn=Auto Membership Plugin,cn=plugins,cn=config is added
++Entry cn=Content Synchronization,cn=plugins,cn=config is added
++Entry cn=deref,cn=plugins,cn=config is added
++Entry cn=Internationalization Plugin,cn=plugins,cn=config is added
++Entry cn=HTTP Client,cn=plugins,cn=config is added
++Entry cn=Linked Attributes,cn=plugins,cn=config is added
++Entry cn=Managed Entries,cn=plugins,cn=config is added
++Entry cn=Pass Through Authentication,cn=plugins,cn=config is added
++Entry cn=USN,cn=plugins,cn=config is added
++Entry cn=Pass Through Authentication,cn=plugins,cn=config is added
++Entry cn=USN,cn=plugins,cn=config is added
++Entry cn=whoami,cn=plugins,cn=config is added
++Entry cn=RootDN Access Control,cn=plugins,cn=config is added
++Entry cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=aci,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=cn,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=entryusn,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=givenName,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=mail,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=mailAlternateAddress,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=mailHost,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=member,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=memberOf,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=nsUniqueId,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=numsubordinates,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=objectclass,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=owner,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=parentid,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=seeAlso,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=sn,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=telephoneNumber,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=uid,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=ntUniqueId,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=ntUserDomainId,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=uniquemember,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=nsTombstoneCSN,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=targetuniqueid,cn=default indexes, cn=config,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=monitor, cn=ldbm database, cn=plugins, cn=config is added
++Entry cn=database, cn=monitor, cn=ldbm database, cn=plugins, cn=config is added
++Entry cn=chaining database,cn=plugins,cn=config is added
++Entry cn=config,cn=chaining database,cn=plugins,cn=config is added
++Entry cn=mapping tree,cn=config is added
++Entry cn=tasks,cn=config is added
++Entry cn=Account Policy Plugin,cn=plugins,cn=config is added
++Entry cn=config,cn=Account Policy Plugin,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/data/template-suffix-db.ldif ...
++Entry cn=userRoot,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=encrypted attribute keys,cn=userRoot,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn=encrypted attributes,cn=userRoot,cn=ldbm database,cn=plugins,cn=config is added
++Entry cn="dc=example,dc=com",cn=mapping tree,cn=config is added
++Processing /usr/share/dirsrv/data/template-sasl.ldif ...
++Entry cn=sasl,cn=config is added
++Entry cn=mapping,cn=sasl,cn=config is added
++Entry cn=Kerberos uid mapping,cn=mapping,cn=sasl,cn=config is added
++Entry cn=rfc 2829 dn syntax,cn=mapping,cn=sasl,cn=config is added
++Entry cn=rfc 2829 u syntax,cn=mapping,cn=sasl,cn=config is added
++Entry cn=uid mapping,cn=mapping,cn=sasl,cn=config is added
++Processing /usr/share/dirsrv/data/template-pampta.ldif ...
++Entry cn=PAM Pass Through Auth,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/data/template-bitwise.ldif ...
++Entry cn=Bitwise Plugin,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/data/template-dnaplugin.ldif ...
++Entry cn=Distributed Numeric Assignment Plugin,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/updates/50replication-plugins.ldif ...
++Entry cn=Legacy Replication Plugin,cn=plugins,cn=config is added
++Entry cn=Multimaster Replication Plugin,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/updates/50posix-winsync-plugin.ldif ...
++Entry cn=Posix Winsync API,cn=plugins,cn=config is added
++Processing /usr/share/dirsrv/data/90betxn-plugins.ldif ...
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/dse.ldif to 660
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/dse.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/dse_original.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/dse_original.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/certmap.conf to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/certmap.conf to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/slapd-collations.conf to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/slapd-collations.conf to user 999 group 999
++changeOwnerMode: changed mode of /etc/default/dirsrv-pki-tomcat to 440
++changeOwnerMode: changed ownership of /etc/default/dirsrv-pki-tomcat to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/bak2db to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/bak2db to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/bak2db.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/bak2db.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/cleanallruv.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/cleanallruv.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2bak to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2bak to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2bak.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2bak.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2index to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2index to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2index.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2index.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2ldif to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2ldif to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2ldif.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/db2ldif.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/dbverify to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/dbverify to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/dn2rdn to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/dn2rdn to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-linkedattrs.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-linkedattrs.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-memberof.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-memberof.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-memberuid.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/fixup-memberuid.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2db to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2db to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2db.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2db.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2ldap to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ldif2ldap to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/monitor to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/monitor to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-accountstatus.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-accountstatus.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-activate.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-activate.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-inactivate.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-inactivate.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-newpwpolicy.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/ns-newpwpolicy.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/restart-slapd to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/restart-slapd to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/restoreconfig to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/restoreconfig to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/saveconfig to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/saveconfig to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/schema-reload.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/schema-reload.pl to user 999 group 999
+
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/stop-slapd to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/stop-slapd to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/suffix2instance to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/suffix2instance to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/syntax-validate.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/syntax-validate.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/upgradednformat to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/upgradednformat to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/usn-tombstone-cleanup.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/usn-tombstone-cleanup.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/verify-db.pl to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/verify-db.pl to user 999 group 999
++changeOwnerMode: changed mode of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/vlvindex to 550
++changeOwnerMode: changed ownership of /usr/lib/x86_64-linux-gnu/dirsrv/slapd-pki-tomcat/vlvindex to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/00core.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/00core.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/01core389.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/01core389.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/02common.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/02common.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc2927.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc2927.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc4523.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc4523.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc4524.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/05rfc4524.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/06inetorgperson.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/06inetorgperson.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/10automember-plugin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/10automember-plugin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/10dna-plugin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/10dna-plugin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/10mep-plugin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/10mep-plugin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/10rfc2307.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/10rfc2307.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/20subscriber.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/20subscriber.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/25java-object.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/25java-object.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/28pilot.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/28pilot.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/30ns-common.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/30ns-common.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-admin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-admin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-certificate.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-certificate.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-directory.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-directory.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-mail.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-mail.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-value.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-value.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-web.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/50ns-web.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60acctpolicy.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60acctpolicy.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60autofs.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60autofs.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60eduperson.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60eduperson.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60mozilla.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60mozilla.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60nss-ldap.ldif to 440
+
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60mozilla.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60nss-ldap.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60nss-ldap.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60pam-plugin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60pam-plugin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60posix-winsync-plugin.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60posix-winsync-plugin.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60pureftpd.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60pureftpd.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60rfc2739.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60rfc2739.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60rfc3712.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60rfc3712.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60sabayon.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60sabayon.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60sudo.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60sudo.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/60trust.ldif to 440
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/60trust.ldif to user 999 group 999
++changeOwnerMode: changed mode of /etc/dirsrv/slapd-pki-tomcat/schema/99user.ldif to 660
++changeOwnerMode: changed ownership of /etc/dirsrv/slapd-pki-tomcat/schema/99user.ldif to user 999 group 999
++Processing /usr/share/dirsrv/data/template-domain.ldif ...
++Entry dc=example,dc=com is added
++Processing /usr/share/dirsrv/data/template-baseacis.ldif ...
++Processing /usr/share/dirsrv/data/template.ldif ...
++Entry cn=Directory Administrators, dc=example,dc=com is added
++Entry ou=Groups, dc=example,dc=com is added
++Entry ou=People, dc=example,dc=com is added
++Entry ou=Special Users,dc=example,dc=com is added
++Entry cn=Accounting Managers,ou=groups,dc=example,dc=com is added
++Entry cn=HR Managers,ou=groups,dc=example,dc=com is added
++Entry cn=QA Managers,ou=groups,dc=example,dc=com is added
++Entry cn=PD Managers,ou=groups,dc=example,dc=com is added
++changeOwnerMode: changed mode of /tmp/ldifgm_nVy.ldif to 440
++changeOwnerMode: changed ownership of /tmp/ldifgm_nVy.ldif to user 999 group 999
++importing data ...
+[25/Aug/2017:19:36:30 +0000] - WARNING: Import is running with nsslapd-db-private-import-mem on; No other process is allowed to access the database
+[25/Aug/2017:19:36:30 +0000] - check_and_set_import_cache: pagesize: 4096, pages: 1011668, procpages: 68148
+[25/Aug/2017:19:36:30 +0000] - Import allocates 1618668KB import cache.
+[25/Aug/2017:19:36:30 +0000] - import userRoot: Beginning import job...
+[25/Aug/2017:19:36:30 +0000] - import userRoot: Index buffering enabled with bucket size 100
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Processing file "/tmp/ldifgm_nVy.ldif"
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Finished scanning file "/tmp/ldifgm_nVy.ldif" (9 entries)
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Workers finished; cleaning up...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Workers cleaned up.
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Cleaning up producer thread...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Indexing complete.  Post-processing...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Generating numsubordinates (this may take several minutes to complete)...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Generating numSubordinates complete.
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Gathering ancestorid non-leaf IDs...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Finished gathering ancestorid non-leaf IDs.
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Creating ancestorid index (new idl)...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Created ancestorid index (new idl).
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Flushing caches...
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Closing files...
+[25/Aug/2017:19:36:31 +0000] - All database threads now stopped
+[25/Aug/2017:19:36:31 +0000] - import userRoot: Import complete.  Processed 9 entries in 1 seconds. (9.00 entries/sec)
++updating systemd files in /lib/systemd/system and /etc/systemd/system/dirsrv.target.wants for all directory server instances in /etc/default
++Error: /bin/systemctl --system daemon-reload failed - output Failed to connect to bus: No such file or directory
+:
+Error: command '/bin/systemctl --system daemon-reload' failed - output [Failed to connect to bus: No such file or directory
+] error []Error: Could not create directory server instance 'pki-tomcat'.
+Exiting . . .
+Log file is '/tmp/setup_icRJs.log'
+

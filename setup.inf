@@ -1,0 +1,11 @@
+General]
+FullMachineName= localhost.localdomain
+SuiteSpotUserID= ubuntu
+SuiteSpotGroup= barbican
+
+[slapd]
+ServerPort= 389
+ServerIdentifier= pki-tomcat
+Suffix= dc=example,dc=com
+RootDN= cn=Directory Manager
+RootDNPwd= PASSWORD
