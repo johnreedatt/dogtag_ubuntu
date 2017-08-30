@@ -44,7 +44,20 @@ RUN rm -rf /var/lock /usr/lib/systemd/system \
     && sed -i 's/checkHostname {/checkHostname {\nreturn();/g' /usr/lib/x86_64-linux-gnu/dirsrv/perl/DSUtil.pm \
     && groupadd -r barbican && useradd --no-log-init -r -g barbican ubuntu \
     && adduser ubuntu sudo \
-    && echo "ubuntu ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
+    && echo "ubuntu ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers\
+&& find /lib/systemd/system/sysinit.target.wants/ ! -name 'systemd-tmpfiles-setup.service' -type l -exec rm -fv {} + \
+    && rm -fv \
+        /lib/systemd/system/multi-user.target.wants/* \
+        /etc/systemd/system/*.wants/* \
+        /lib/systemd/system/local-fs.target.wants/* \
+        /lib/systemd/system/sockets.target.wants/*udev* \
+        /lib/systemd/system/sockets.target.wants/*initctl* \
+        /lib/systemd/system/basic.target.wants/*
+#RUN /bin/systemd --system
+RUN set -x \
+    && ln -s /usr/lib/systemd/system/container-up.target /etc/systemd/system/default.target \
+    && mkdir -p /etc/systemd/system/container-up.target.wants \
+    && ln -s /usr/lib/systemd/system/kubeadm-aio.service /etc/systemd/system/container-up.target.wants/kubeadm-aio.service
 USER ubuntu:barbican
 
 EXPOSE 8373 8370 8379 8375 389
